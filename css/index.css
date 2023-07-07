@@ -55,3 +55,10 @@ nav {
     margin-left: 20px;
     float: left;
 }
+.move {
+    float: left;
+    width: 50%;
+}
+.gallery {
+    margin-top: 35%;
+}
